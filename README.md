@@ -1,12 +1,12 @@
-### Hello! I'm JustBetterL. A youtuber / discord.py enthusist, Mostly known as jbl
+### Hello World! I'm JustBetterL, Mostly known as jbl
 
 
-
+Hello! My name is JustBetterL, a discord.py entusist and youtuber. I'm currently working on a discord.py bot series.
 
 <br/>
 
 <a href="https://www.youtube.com/channel/UCkQMy6s7JDnMqtrBLewWvng">
-<img align="left" alt="Fotie | Twitter" width="22px" src="https://github.com/JustBetterL/JustBetterL/blob/main/logo1.png" />
+<img align="left" alt="Fotie | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
 <br />
