@@ -6,7 +6,7 @@
 <br/>
 
 <a href="https://www.youtube.com/channel/UCkQMy6s7JDnMqtrBLewWvng">
-<img align="left" alt="Fotie | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<img align="left" alt="Fotie | Twitter" width="22px" src="https://github.com/JustBetterL/JustBetterL/blob/main/logo1.png" />
 </a>
 
 <br />
